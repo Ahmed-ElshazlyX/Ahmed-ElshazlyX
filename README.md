@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="130" width="1250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM5aWMyN3cyd2F2NnBxOXk0NXJnZnY4bWVmcW9jaGc2c2pmMGs3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ioTgyF4TrswFpJDB8/giphy.gif"  />
-</div>
-
 ###
 
 <h1 align="left">👋 Hi, I'm Ahmed Elshazly!<br>🎨 UI/UX Developer | Creative Problem Solver | Pixel Perfectionist</h1>
